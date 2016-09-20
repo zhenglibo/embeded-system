@@ -1,0 +1,2 @@
+# embeded-system
+linux
